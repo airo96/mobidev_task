@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_item_saved_movies"
+            android:title="@string/nav_item_title_saved_movies"
+            android:checked="true"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/nav_item_search_movies"
+            android:title="@string/nav_item_title_search_with_title"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/nav_item_search_person_movies"
+            android:title="@string/nav_item_title_search_with_person"
+            app:showAsAction="ifRoom" />
+    </group>
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="search_view_width">320dp</dimen>
+    <dimen name="layout_padding">8dp</dimen>
+    <dimen name="text_widget_margin">8dp</dimen>
+    <dimen name="backdrop_height">169dp</dimen>
+    <dimen name="backdrop_width">300dp</dimen>
+    <dimen name="listitem_poster_width">92dp</dimen>
+    <dimen name="listitem_poster_height">138dp</dimen>
+    <dimen name="label_padding">8dp</dimen>
+</resources>

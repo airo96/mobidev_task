@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="nav_item_title_saved_movies">Saved movies</string>
+    <string name="nav_item_title_search_with_title">Search with title</string>
+    <string name="nav_item_title_search_with_person">Search with person</string>
+    <string name="hint_enter_movie_title">Enter movie title</string>
+    <string name="menu_item_title_save">Save</string>
+    <string name="screen_title_saved_movies">Saved movies</string>
+    <string name="screen_title_find_movie">Find movie</string>
+    <string name="hint_enter_person_name">Enter person name</string>
+</resources>
